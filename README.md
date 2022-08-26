@@ -4,3 +4,4 @@ Notes and tasks for IB Diploma Computer Science
 
 # CONTENTS
 8/24 4th Industrail Revolution 
+8/26 My Programming Language
