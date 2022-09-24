@@ -11,5 +11,6 @@ Notes and tasks for IB Diploma Computer Science
 
 ### TASKS
 8/26 My Programming Language <br>
-9/1 System Implementation Task 
+9/1 System Implementation Task  <br>
+9/6 System Design Task
 
