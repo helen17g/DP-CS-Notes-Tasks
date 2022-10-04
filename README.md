@@ -10,6 +10,7 @@ Notes and tasks for IB Diploma Computer Science
 9/6 System Design <br>
 9/8 System Testing <br>
 9/22 Components of a Computer System <br>
+9/26 - Ethics and Impacts of IT <br> 
 
 ### TASKS
 8/26 My Programming Language <br>
