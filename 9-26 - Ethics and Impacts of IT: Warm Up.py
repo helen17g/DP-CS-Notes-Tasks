@@ -21,7 +21,7 @@ while (answer == "empty"):
 """)
 
  elif(userchoice == "2"):
- print("""Choose 2 advancements (not those already discussed in the videos) in IT that have changed how we work and/or live.
+  print("""Choose 2 advancements (not those already discussed in the videos) in IT that have changed how we work and/or live.
 For each, what are some of the effects (pros & cons) of some of these advancements of IT?
  
 1. The Advancement of Chess engines:
@@ -42,7 +42,7 @@ For each, what are some of the effects (pros & cons) of some of these advancemen
  print(""" """)
 
  elif(userchoice == "3"):
- print("""Add the following terms and definitions to your notes.
+  print("""Add the following terms and definitions to your notes.
 reliability: refers to the operation of hardware, the design of software, the accuracy of data or the correspondence of data with the real world. Data may be unreliable if it has been entered incorrectly or if it becomes outdated. The reliability of machines, software and data determines our confidence in their value.
 integrity: refers to safeguarding the accuracy and completeness of stored data. Data lacks integrity when it has been changed accidentally or tampered with. Examples of data losing integrity are where information is duplicated in a relational database and only one copy is updated or where data entries have been maliciously altered.
 inconsistency: refers to the protection of hardware, software, machines and networks from unauthorized access. Security measures include restricted access to machines and networks for certain employees or to prevent access by hackers. The degree of security of information systems largely determines society’s confidence in the information contained in the systems.
@@ -61,7 +61,7 @@ Digital Citizenship:can be defined as appropriate behaviour that represents the 
 """)
 
  elif(userchoice == "4"):
- print("""Add the following terms and definitions to your notes.
+  print("""Add the following terms and definitions to your notes.
 Constant Exposure to Communication Technology: Citizens better informed about the world, their community, friends, and family. However, there can be psychological impacts including stress, poor concentration, and short attention span. Additionally, this may also create additional obstacles to personal 1-to-1 relationships. 
 The Internet: Access to nearly immediate access to new tools, new ways to obtain information, new ways to share information. However, this can result in internet addiction, neglecting real life, and social media obsession.
 Gaming: Interactive medium capable of telling stories and providing intellectual stimulation. Also can improve hand-eye coordination. Users may have lower levels of concentration, sleep deprivation, social desensitization, addiction, and neglect real life and educational / personal development.
@@ -70,7 +70,7 @@ Over use of Mobile Devices: Easier communication with family. Easier communicati
 """)
  
  elif(userchoice == "5"):
- print("""1. Pros & Cons
+  print("""1. Pros & Cons
 There is a vast amount of scientific information and educational material available on the WWW. 
 Discuss the advantages and disadvantages of students having unrestricted and unsupervised access to a PC that is connected to the Internet.
 I will tell you a story. During my E.E my chromebook was restircited and did not allow any chess related activities, this was horrible because IIIIII NNNNEEEEEEDDDDDEEEEDDDD to research chess and I couldn't. Fuck that, so I brought my own chorme book, and worked. some times restriction is a bad thing. 
@@ -82,6 +82,6 @@ that you feel you know the least about it. Look over a resource about it. Provid
 
 
  else: 
- print("INVALID INPUT, please try again")
- answer = "empty"
- userchoice = input()
+  print("INVALID INPUT, please try again")
+  answer = "empty"
+  userchoice = input()
