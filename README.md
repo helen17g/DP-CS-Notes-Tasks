@@ -11,7 +11,7 @@ Notes and tasks for IB Diploma Computer Science
 9/8 System Testing <br>
 9/22 Components of a Computer System <br>
 9/26 - Ethics and Impacts of IT <br> 
-11/7 - 11/7 - UX Research <br>
+11/7 - UX Research <br>
 
 
 ### TASKS
