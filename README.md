@@ -1,4 +1,4 @@
-# DP-CS-Notes-Tasks-
+# DP-CS-Notes-Tasks
 Notes and tasks for IB Diploma Computer Science  
 
 
