@@ -4,6 +4,8 @@ Notes and tasks for IB Diploma Computer Science
 
 # CONTENTS
 ### NOTES
+<br>
+2022<br>
 8/24 - 4th Industrail Revolution <br>
 8/30 - Systems <br>
 9/1 - System Implementation <br>
@@ -13,6 +15,8 @@ Notes and tasks for IB Diploma Computer Science
 9/26 - Ethics and Impacts of IT <br> 
 11/7 - UX Research <br>
 11/14 - WCAG <br>
+<br>
+2023<br>
 1/3 - Computer Components <br>
 
 ### TASKS
